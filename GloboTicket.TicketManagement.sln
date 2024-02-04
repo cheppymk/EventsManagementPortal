@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{17ED7554-0C40-47A1-8F69-92F1CB338573}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{84E733D2-1817-4593-A88E-EB51DF5F442E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{117667FA-D606-4DDC-8255-E00C3639503C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{BA79759F-5A47-4CDE-ACAF-B42DBCD90526}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{67251390-0CD3-4A77-9D41-22410758A1F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{C5D1EE07-0A9B-4881-BAD3-0A6961A2774A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Domain", "GloboTicket.TicketManagement.Domain\GloboTicket.TicketManagement.Domain.csproj", "{D52F288C-A087-4CB3-AB2F-FE218AE697F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52F288C-A087-4CB3-AB2F-FE218AE697F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52F288C-A087-4CB3-AB2F-FE218AE697F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52F288C-A087-4CB3-AB2F-FE218AE697F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52F288C-A087-4CB3-AB2F-FE218AE697F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{117667FA-D606-4DDC-8255-E00C3639503C} = {17ED7554-0C40-47A1-8F69-92F1CB338573}
+		{BA79759F-5A47-4CDE-ACAF-B42DBCD90526} = {17ED7554-0C40-47A1-8F69-92F1CB338573}
+		{67251390-0CD3-4A77-9D41-22410758A1F7} = {17ED7554-0C40-47A1-8F69-92F1CB338573}
+		{C5D1EE07-0A9B-4881-BAD3-0A6961A2774A} = {17ED7554-0C40-47A1-8F69-92F1CB338573}
+		{D52F288C-A087-4CB3-AB2F-FE218AE697F3} = {67251390-0CD3-4A77-9D41-22410758A1F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDC276E-CB2B-4EAA-8B65-7BE0527A584E}
+	EndGlobalSection
+EndGlobal
