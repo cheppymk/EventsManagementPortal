@@ -1,4 +1,10 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\GloboTicket.TicketManagement.Domain",
+    "\\GloboTicket.TicketManagement.Domain\\bin",
+    "\\GloboTicket.TicketManagement.Domain\\Entities"
+  ],
+  "SelectedNode": "\\GloboTicket.TicketManagement.Domain\\Entities\\Order.cs",
   "PreviewInSolutionExplorer": false
 }
