@@ -1,0 +1,14 @@
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.deps.json
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.sourcelink.json
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\refint\GloboTicket.TicketManagement.Domain.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Domain.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.runtimeconfig.json
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.genruntimeconfig.cache
