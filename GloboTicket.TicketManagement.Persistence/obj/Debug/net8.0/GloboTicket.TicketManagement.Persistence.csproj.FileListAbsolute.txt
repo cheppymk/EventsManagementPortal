@@ -1,4 +1,5 @@
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\bin\Debug\net8.0\GloboTicket.TicketManagement.Persistence.deps.json
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\bin\Debug\net8.0\GloboTicket.TicketManagement.Persistence.runtimeconfig.json
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\bin\Debug\net8.0\GloboTicket.TicketManagement.Persistence.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\bin\Debug\net8.0\GloboTicket.TicketManagement.Persistence.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
@@ -15,6 +16,5 @@ C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.Tick
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\obj\Debug\net8.0\GloboTicket.TicketManagement.Persistence.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\obj\Debug\net8.0\refint\GloboTicket.TicketManagement.Persistence.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\obj\Debug\net8.0\GloboTicket.TicketManagement.Persistence.pdb
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Persistence.dll
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\bin\Debug\net8.0\GloboTicket.TicketManagement.Persistence.runtimeconfig.json
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\obj\Debug\net8.0\GloboTicket.TicketManagement.Persistence.genruntimeconfig.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Persistence\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Persistence.dll

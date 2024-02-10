@@ -20,7 +20,7 @@ namespace GloboTicket.TicketManagement.Api
                 options => options.AddPolicy(
                     "open",
                     policy => policy.WithOrigins([builder.Configuration["ApiUrl"] ?? "https://localhost:7282",
-                        builder.Configuration["BlazorUrl"] ?? "https://localhost:7282"])
+                        builder.Configuration["BlazorUrl"] ?? "https://localhost:7080"])
             .AllowAnyMethod()
             .SetIsOriginAllowed(pol => true)
             .AllowAnyHeader()

@@ -1,4 +1,5 @@
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.deps.json
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.runtimeconfig.json
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
@@ -15,6 +16,5 @@ C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.Tick
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net8.0\refint\GloboTicket.TicketManagement.Infrastructure.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.pdb
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Infrastructure.dll
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\bin\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.runtimeconfig.json
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net8.0\GloboTicket.TicketManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Infrastructure\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Infrastructure.dll

@@ -1,4 +1,5 @@
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.deps.json
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.runtimeconfig.json
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.pdb
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.dll
@@ -13,6 +14,5 @@ C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.Tick
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\refint\GloboTicket.TicketManagement.Application.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.pdb
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Application.dll
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.runtimeconfig.json
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\GloboTicket.TicketManagement.Application.genruntimeconfig.cache
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Application.dll
