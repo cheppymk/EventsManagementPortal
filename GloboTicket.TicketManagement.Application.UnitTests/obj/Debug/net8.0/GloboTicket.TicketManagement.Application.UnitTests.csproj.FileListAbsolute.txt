@@ -43,7 +43,7 @@ C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.Tick
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\EmptyFiles\slide\empty.odp
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\EmptyFiles\slide\empty.pptx
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\testhost.exe
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\GloboTicket.TicketManagement.Application.UnitTests.deps.json
@@ -71,7 +71,6 @@ C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.Tick
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\Moq.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\NuGet.Frameworks.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\Shouldly.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Application.UnitTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll

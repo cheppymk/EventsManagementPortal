@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GloboTicket.TicketManagement.App",
   "resources": {
-    "hash": "sha256-Rx+H5QJNb6MvLpu7H4tq0/elEAgeJ222ks3LdjDbbZw=",
+    "hash": "sha256-jjzKCXG3L/5wRLX52duTHTLHn3ZOg+M63yQnRWYi3hI=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.4tcavz2syw.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -216,10 +216,10 @@
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.Private.CoreLib.wasm": "sha256-CsySKiP7HYY1pS8LTDE60EkqiX5oHb3WoEZHDNd1yK0=",
-      "GloboTicket.TicketManagement.App.wasm": "sha256-t5Hppqx0majNbbNXIZ8mjYpEfV8zcjddJsmMKnM07QA="
+      "GloboTicket.TicketManagement.App.wasm": "sha256-BmvI3aDJxmGrv75/V53X4MsJiv5a2SwgGtIujQE3N6o="
     },
     "pdb": {
-      "GloboTicket.TicketManagement.App.pdb": "sha256-WFzBAtAMCMlCv+jKFfWPAzFlCWIAtJ93Ps8dqdLe4FE="
+      "GloboTicket.TicketManagement.App.pdb": "sha256-y6bLpgYV/NKgZHPxtLPoA47+wXZ8zXja/OjYRyo9HOE="
     }
   },
   "cacheBootResources": true,

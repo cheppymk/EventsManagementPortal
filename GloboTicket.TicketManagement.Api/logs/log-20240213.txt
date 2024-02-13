@@ -1,0 +1,18 @@
+2024-02-13 13:40:05.821 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-02-13 13:40:53.731 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2024-02-13 13:51:38.603 +01:00 [INF] Now listening on: https://localhost:7282
+2024-02-13 13:51:38.627 +01:00 [INF] Now listening on: http://localhost:5203
+2024-02-13 13:51:38.629 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-13 13:51:38.630 +01:00 [INF] Hosting environment: Development
+2024-02-13 13:51:38.630 +01:00 [INF] Content root path: C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Api
+2024-02-13 13:55:49.220 +01:00 [INF] Now listening on: https://localhost:7282
+2024-02-13 13:55:49.241 +01:00 [INF] Now listening on: http://localhost:5203
+2024-02-13 13:55:49.243 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-13 13:55:49.244 +01:00 [INF] Hosting environment: Development
+2024-02-13 13:55:49.244 +01:00 [INF] Content root path: C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Api
+2024-02-13 15:27:13.403 +01:00 [INF] Now listening on: https://localhost:7282
+2024-02-13 15:27:13.421 +01:00 [INF] Now listening on: http://localhost:5203
+2024-02-13 15:27:13.422 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-13 15:27:13.423 +01:00 [INF] Hosting environment: Development
+2024-02-13 15:27:13.423 +01:00 [INF] Content root path: C:\Users\tosom\OneDrive\Documents\GitHub\EventsManagementPortal\GloboTicket.TicketManagement.Api
+2024-02-13 15:39:20.701 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
